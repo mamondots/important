@@ -1,0 +1,142 @@
+[
+    {
+        "name": "John Doe",
+        "id": 1,
+        "job": "Software Engineer",
+        "categore":"font",
+        "price":20
+    },
+    {
+        "name": "Jane Smith",
+        "id": 2,
+        "job": "Data Scientist",
+        "categore":"back",
+        "price":40
+    },
+    {
+        "name": "Robert Johnson",
+        "id": 3,
+        "job": "Product Manager",
+        "categore":"font",
+        "price":90
+    },
+    {
+        "name": "Emily Brown",
+        "id": 4,
+        "job": "Marketing Specialist",
+        "categore":"junior",
+        "price":30
+    },
+    {
+        "name": "Michael Wilson",
+        "id": 5,
+        "job": "Financial Analyst",
+        "categore":"font",
+        "price":150
+    },
+    {
+        "name": "Sarah Davis",
+        "id": 6,
+        "job": "Graphic Designer",
+        "categore":"back",
+        "price":120
+    },
+    {
+        "name": "William Martinez",
+        "id": 7,
+        "job": "HR Manager",
+        "categore":"junior",
+        "price":300
+    },
+    {
+        "name": "Olivia Johnson",
+        "id": 8,
+        "job": "UX/UI Designer",
+        "categore":"font",
+        "price":50
+    },
+    {
+        "name": "James Anderson",
+        "id": 9,
+        "job": "Sales Representative",
+        "categore":"back",
+        "price":70
+    },
+    {
+        "name": "Sophia Lee",
+        "id": 10,
+        "job": "Software Developer",
+        "categore":"junior",
+        "price":250
+    },
+    {
+        "name": "Daniel Taylor",
+        "id": 11,
+        "job": "Project Manager",
+        "categore":"font",
+        "price":420
+    },
+    {
+        "name": "Ava Garcia",
+        "id": 12,
+        "job": "Content Writer",
+        "categore":"junior",
+        "price":12
+    },
+    {
+        "name": "Liam Hernandez",
+        "id": 13,
+        "job": "Operations Manager",
+        "categore":"back",
+        "price":710
+    },
+    {
+        "name": "Emma White",
+        "id": 14,
+        "job": "Data Analyst",
+        "categore":"font",
+        "price":210
+    },
+    {
+        "name": "Noah Miller",
+        "id": 15,
+        "job": "Business Analyst",
+        "categore":"junior",
+        "price":560
+    },
+    {
+        "name": "Isabella Brown",
+        "id": 16,
+        "job": "Product Designer",
+        "categore":"back",
+        "price":780
+    },
+    {
+        "name": "Jacob Taylor",
+        "id": 17,
+        "job": "Customer Support",
+        "categore":"font",
+        "price":241
+    },
+    {
+        "name": "Mia Wilson",
+        "id": 18,
+        "job": "Marketing Manager",
+        "categore":"junior",
+        "price":870
+    },
+    {
+        "name": "Ethan Jones",
+        "id": 19,
+        "job": "Frontend Developer",
+        "categore":"font",
+        "price":150
+    },
+    {
+        "name": "Avery Thomas",
+        "id": 20,
+        "job": "Accountant",
+        "categore":"back",
+        "price":900
+    }
+]

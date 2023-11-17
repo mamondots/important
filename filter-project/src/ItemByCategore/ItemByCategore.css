@@ -1,0 +1,15 @@
+.content{
+    display:none;
+}
+.active-content{
+    display:block;
+}
+
+.tabs{
+    padding:16px 30px;
+}
+.active-tabs.tabs{
+    background-color:#D54800;
+    padding:16px 30px;
+    color:#fff;
+}

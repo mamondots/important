@@ -1,0 +1,122 @@
+[
+    {
+        "name": "John Doe",
+        "id": 1,
+        "job": "Software Engineer",
+        "categore":"font"
+    },
+    {
+        "name": "Jane Smith",
+        "id": 2,
+        "job": "Data Scientist",
+        "categore":"back"
+    },
+    {
+        "name": "Robert Johnson",
+        "id": 3,
+        "job": "Product Manager",
+        "categore":"font"
+    },
+    {
+        "name": "Emily Brown",
+        "id": 4,
+        "job": "Marketing Specialist",
+        "categore":"junior"
+    },
+    {
+        "name": "Michael Wilson",
+        "id": 5,
+        "job": "Financial Analyst",
+        "categore":"font"
+    },
+    {
+        "name": "Sarah Davis",
+        "id": 6,
+        "job": "Graphic Designer",
+        "categore":"back"
+    },
+    {
+        "name": "William Martinez",
+        "id": 7,
+        "job": "HR Manager",
+        "categore":"junior"
+    },
+    {
+        "name": "Olivia Johnson",
+        "id": 8,
+        "job": "UX/UI Designer",
+        "categore":"font"
+    },
+    {
+        "name": "James Anderson",
+        "id": 9,
+        "job": "Sales Representative",
+        "categore":"back"
+    },
+    {
+        "name": "Sophia Lee",
+        "id": 10,
+        "job": "Software Developer",
+        "categore":"junior"
+    },
+    {
+        "name": "Daniel Taylor",
+        "id": 11,
+        "job": "Project Manager",
+        "categore":"font"
+    },
+    {
+        "name": "Ava Garcia",
+        "id": 12,
+        "job": "Content Writer",
+        "categore":"junior"
+    },
+    {
+        "name": "Liam Hernandez",
+        "id": 13,
+        "job": "Operations Manager",
+        "categore":"back"
+    },
+    {
+        "name": "Emma White",
+        "id": 14,
+        "job": "Data Analyst",
+        "categore":"font"
+    },
+    {
+        "name": "Noah Miller",
+        "id": 15,
+        "job": "Business Analyst",
+        "categore":"junior"
+    },
+    {
+        "name": "Isabella Brown",
+        "id": 16,
+        "job": "Product Designer",
+        "categore":"back"
+    },
+    {
+        "name": "Jacob Taylor",
+        "id": 17,
+        "job": "Customer Support",
+        "categore":"font"
+    },
+    {
+        "name": "Mia Wilson",
+        "id": 18,
+        "job": "Marketing Manager",
+        "categore":"junior"
+    },
+    {
+        "name": "Ethan Jones",
+        "id": 19,
+        "job": "Frontend Developer",
+        "categore":"font"
+    },
+    {
+        "name": "Avery Thomas",
+        "id": 20,
+        "job": "Accountant",
+        "categore":"back"
+    }
+]

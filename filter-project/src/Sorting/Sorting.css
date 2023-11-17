@@ -1,0 +1,12 @@
+
+.pageNumder li{
+    background-color:red;
+    color:#fff;
+    padding:2px 8px;
+    margin:0 8px;
+}
+
+.pageNumder li.active{
+    background-color:rgb(21, 5, 5);
+    
+}
